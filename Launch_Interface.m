@@ -279,7 +279,7 @@ function click(~,~)
             init(nm)
         end
     else
-    %find out whether Robby of target position were clicked
+    %find out whether Robby or target position were clicked
         
         %find position of start_pos and target_pos
         sp = nm.start_pos;
